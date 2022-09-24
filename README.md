@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tvytlx" />
+I'm familiar with Javascript, Typescript, and Python. I can use them to create anything from scratch.
